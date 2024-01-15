@@ -61,3 +61,5 @@ ku8okpIFhegph6kcLXhm9Tw5Ot/JiUlHnV7glQK+08eoYEEr
 -----END PGP PUBLIC KEY BLOCK-----
 
 A senha é labsipgm.
+
+Agora os commits exigem a chave GPG.
